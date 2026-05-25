@@ -3,7 +3,7 @@ self-taught book for programmers by Cory Althoff
 
 # althoffbooklearn
 
-![Обложка книги Сам себе программист](https://cdn.litres.ru/pub/c/cover/33397888.jpg)
+![Обложка книги Сам себе программист](images/image.png)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/PROTOTYPE9111/althoffbooklearn?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/PROTOTYPE9111/althoffbooklearn?style=social)
